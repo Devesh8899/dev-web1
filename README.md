@@ -1,2 +1,3 @@
 # dev-web1
-My first project
+This is my first Git Repository
+Author-Devesh Dubey
